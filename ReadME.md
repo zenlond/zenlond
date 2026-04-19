@@ -42,5 +42,5 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-A-001e36?logo=adobephotoshop&logoColor=fff&style=for-the-badge&colorA=001e36&colorB=31a8ff" alt="Photoshop" />
 </p>
